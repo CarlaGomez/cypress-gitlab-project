@@ -1,0 +1,16 @@
+{
+  "name": "cypress-gitlab-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^12.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
